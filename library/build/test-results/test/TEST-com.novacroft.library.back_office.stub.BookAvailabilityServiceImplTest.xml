@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.novacroft.library.back_office.stub.BookAvailabilityServiceImplTest" tests="6" skipped="0" failures="0" errors="0" timestamp="2023-08-16T19:18:04" hostname="ahmeds-MBP" time="0.153">
+  <properties/>
+  <testcase name="whenIsBookAvailable_ValidBINNotInLibrary_ReturnsNull" classname="com.novacroft.library.back_office.stub.BookAvailabilityServiceImplTest" time="0.135"/>
+  <testcase name="whenIsBookAvailable_ValidBINInLibrary_ReturnsDate" classname="com.novacroft.library.back_office.stub.BookAvailabilityServiceImplTest" time="0.014"/>
+  <testcase name="isBookInLibrary_ValidBINInLibrary_ReturnsTrue" classname="com.novacroft.library.back_office.stub.BookAvailabilityServiceImplTest" time="0.0"/>
+  <testcase name="whenIsBookAvailable_InvalidBIN_ThrowsException" classname="com.novacroft.library.back_office.stub.BookAvailabilityServiceImplTest" time="0.001"/>
+  <testcase name="isBookInLibrary_ValidBINNotInLibrary_ReturnsFalse" classname="com.novacroft.library.back_office.stub.BookAvailabilityServiceImplTest" time="0.001"/>
+  <testcase name="isBookInLibrary_InvalidBIN_ThrowsException" classname="com.novacroft.library.back_office.stub.BookAvailabilityServiceImplTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
